@@ -13,6 +13,12 @@
       "status": "[1]<br><span style=\"font-size:8px\">1ms<span></span></span>",
       "output": "testing <br>",
       "type": "code"
+    },
+    {
+      "code": "default",
+      "status": "",
+      "output": "",
+      "type": "html"
     }
   ],
   "source": "https://github.com/gopi-suvanam/scribbler",
